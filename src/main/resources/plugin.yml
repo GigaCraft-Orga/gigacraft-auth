@@ -1,0 +1,4 @@
+name: gigacraft-auth
+version: '${version}'
+main: dev.grafjojo.gigacraftauth.GigaAuth
+api-version: '1.21'
